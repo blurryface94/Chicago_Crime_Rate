@@ -47,8 +47,7 @@ The following image shows the crime rate predicted for 2018 with the data for fr
 <img width="836" alt="Screen Shot 2020-07-24 at 2 25 43 pm" src="https://user-images.githubusercontent.com/39994111/88361388-2cf4ae00-cdbc-11ea-9e93-8328de972abc.png">
 
 The following image shows the break down of the prediction based on seasonality:
-<img width="836" alt="Screen Shot 2020-07-24 at 2 46 28 pm" src="https://user-images.githubusercontent.com/39994111/88361833-be185480-cdbd-11ea-8ddc-23e7782c002c.png">
-
+<img width="678" alt="Screen Shot 2020-07-24 at 2 46 28 pm" src="https://user-images.githubusercontent.com/39994111/88362152-dd63b180-cdbe-11ea-8c3f-f906b169f03b.png">
 
 The following image shows the crime rate predicted for 2018 and 2019 with the data for from the year 2007 to 2017:
 <img width="836" alt="Screen Shot 2020-07-24 at 2 26 24 pm" src="https://user-images.githubusercontent.com/39994111/88361457-59102f00-cdbc-11ea-803d-76a25464fd6e.png">
